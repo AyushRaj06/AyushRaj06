@@ -1,4 +1,6 @@
-### Hi there 👋
+### <div id="header" align="center" max-width="50%">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+</div>
 
 <!--
 **AyushRaj06/AyushRaj06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
